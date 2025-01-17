@@ -28,7 +28,7 @@ Ele foi desenvolvido com base nos cursos: **Lógica de programação: mergulhe e
 
 Você pode acessar o projeto online através deste link:
 
-👉 [Jogo: Acerte o Número](https://jogo-acerte-o-numero-theta.vercel.app/)
+👉 [Jogo: Acerte o Número](https://jogo-acerte-o-numero-three.vercel.app/)
 
 **OBS:** Ao acessar o projeto, para utilizar a *funcionalidade de voz*, é necessário clicar no botão **ALLOW** na notificação que aparecerá na parte *inferior da página*. Caso prefira *não habilitar essa funcionalidade*, basta clicar em **DECLINE**.
 

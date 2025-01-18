@@ -14,7 +14,7 @@ function mostrarTexto(tag, texto) {
     let campo = document.querySelector(tag, texto);
     campo.innerHTML = texto;
     // Usamos o responsive voice para adicionar voz ao jovo
-    responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate: 1.4});
+    responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate: 1.2});
 }
 // Criamos a função para definir a mensagem do jogo
 function mensagemIncial() {
